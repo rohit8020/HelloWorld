@@ -1,2 +1,2 @@
-var variable="HELLOWORLD"
+var variable="HELLO, WORLD!"
 console.log(variable)
